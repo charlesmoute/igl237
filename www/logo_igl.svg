@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Fond cercle -->
+  <circle cx="24" cy="24" r="22" fill="#1B4332" opacity="0.9"/>
+  <!-- Lettres IGL -->
+  <text x="24" y="30" text-anchor="middle"
+        font-family="Arial, sans-serif" font-weight="800"
+        font-size="15" fill="#FCD116" letter-spacing="1">IGL</text>
+  <!-- Arc décoratif bas -->
+  <path d="M10 36 Q24 42 38 36" stroke="#40916C" stroke-width="2"
+        fill="none" stroke-linecap="round"/>
+</svg>
